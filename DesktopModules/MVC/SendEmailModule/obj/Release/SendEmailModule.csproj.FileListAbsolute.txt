@@ -1,0 +1,10 @@
+C:\Repos\Websites\dnndev.me\bin\SendEmailModule.dll.config
+C:\Repos\Websites\dnndev.me\bin\SendEmailModule.dll
+C:\Repos\Websites\dnndev.me\bin\SendEmailModule.pdb
+C:\Repos\Websites\dnndev.me\DesktopModules\MVC\SendEmailModule\obj\Release\SendEmailModule.csprojAssemblyReference.cache
+C:\Repos\Websites\dnndev.me\DesktopModules\MVC\SendEmailModule\obj\Release\SendEmailSendEmailModule.App_LocalResources.Settings.resources
+C:\Repos\Websites\dnndev.me\DesktopModules\MVC\SendEmailModule\obj\Release\SendEmailModule.csproj.GenerateResource.cache
+C:\Repos\Websites\dnndev.me\DesktopModules\MVC\SendEmailModule\obj\Release\SendEmailModule.csproj.CoreCompileInputs.cache
+C:\Repos\Websites\dnndev.me\DesktopModules\MVC\SendEmailModule\obj\Release\SendEmailModule.csproj.CopyComplete
+C:\Repos\Websites\dnndev.me\DesktopModules\MVC\SendEmailModule\obj\Release\SendEmailModule.dll
+C:\Repos\Websites\dnndev.me\DesktopModules\MVC\SendEmailModule\obj\Release\SendEmailModule.pdb

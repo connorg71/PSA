@@ -1,0 +1,20 @@
+﻿@inherits DotNetNuke.Web.Mvc.Framework.DnnWebViewPage<IEnumerable<SendEmailSendEmailModule.Models.Item>>
+
+@using System.Text.RegularExpressions
+@using DotNetNuke.Web.Mvc.Helpers
+
+
+<h3 style="margin-bottom: 25px; text-align: center;">Mailing List</h3>
+
+
+<div class="form-group">
+    <label>Recepients : </label><br>
+    All Doctors <input type="radio" name="yes">
+    All Staff <input type="radio" name="yes">
+    All Nurses <input type="radio" name="yes">
+
+</div>
+
+
+<button type="button" id="submit" name="submit" class="btn btn-primary pull-right">Send Email</button>
+
